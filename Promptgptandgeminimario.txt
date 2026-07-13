@@ -1,0 +1,61 @@
+Prompt
+
+Hãy tạo một game Super Mario 2D hoàn chỉnh chỉ trong một file HTML duy nhất.
+
+Yêu cầu bắt buộc
+
+- Chỉ tạo 1 file HTML.
+- Không tạo file CSS hoặc JavaScript riêng.
+- Toàn bộ HTML, CSS và JavaScript phải nằm trong cùng một file.
+- Không sử dụng thư viện bên ngoài.
+- Không sử dụng hình ảnh, âm thanh hoặc font từ Internet.
+- Toàn bộ đồ họa phải được vẽ bằng HTML5 Canvas.
+- Không cần tải bất kỳ tài nguyên nào từ bên ngoài.
+- Game chạy ngay khi mở file HTML.
+- Không có lỗi JavaScript.
+
+Gameplay
+
+- Phong cách Super Mario 2D.
+- Điều khiển nhân vật chạy trái, phải và nhảy.
+- Có trọng lực, va chạm, rơi và tiếp đất mượt.
+- Camera bám theo người chơi.
+- Bản đồ dài để khám phá.
+- Có nhiều nền đất, hố, bệ di chuyển và chướng ngại vật.
+- Có ít nhất 5 loại kẻ địch với AI khác nhau.
+- Có thể tiêu diệt kẻ địch bằng cách nhảy lên đầu.
+- Có hệ thống máu hoặc số mạng.
+- Có điểm số.
+- Có coin để thu thập.
+- Có checkpoint.
+- Có màn hình Game Over.
+- Có màn hình Victory khi hoàn thành màn chơi.
+
+Mobile và PC
+
+- Tự động hỗ trợ cả điện thoại và máy tính.
+- PC:
+  - A/D hoặc ←/→ để di chuyển.
+  - W hoặc Space để nhảy.
+- Mobile:
+  - Các nút điều khiển cảm ứng hiển thị trên màn hình.
+  - Điều khiển mượt và hỗ trợ đa chạm.
+
+Đồ họa
+
+- Vẽ hoàn toàn bằng Canvas.
+- Có hiệu ứng mây, núi, cây, bầu trời và nền cuộn (parallax).
+- Có hiệu ứng chuyển động mượt.
+- Có hoạt ảnh cho nhân vật và kẻ địch.
+
+Hiệu năng
+
+- FPS ổn định.
+- Responsive với mọi kích thước màn hình.
+- Không bị méo giao diện.
+- Không để code bị rút gọn (minify).
+- Viết code rõ ràng và có chú thích.
+
+Mục tiêu
+
+Tạo ra một game có chất lượng cao nhất có thể chỉ bằng một file HTML, ưu tiên gameplay, hiệu ứng và độ hoàn thiện thay vì viết ngắn.
